@@ -1,6 +1,6 @@
 # react-spring + Next.js
 
-Simple Next.js app that uses an experimentatl version or [react-spring](https://github.com/drcmda/react-spring) that allows SSR.
+Simple Next.js app that uses an experimental version or [react-spring](https://github.com/drcmda/react-spring) that allows SSR.
 
 ## Installation
 
